@@ -1,4 +1,4 @@
-# ATM_Machine
+# ATM_Machine_Python
 ATM Project_Python_Pycharm
 This project has four python files
 a) ATMMenu.py- It contains the menu options- Deposit, Withdraw and Balance Enquiry
